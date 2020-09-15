@@ -4,6 +4,7 @@
         <icon></icon>
         <tabs></tabs>
         <scroll></scroll>
+        <div>1</div>
     </div>
 </template>
 
